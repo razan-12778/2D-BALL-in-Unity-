@@ -1,4 +1,3 @@
-# 2D-BALL-in-Unity-
 # 🔴 2D Ball Game
 
 ![Unity](https://shields.io)
