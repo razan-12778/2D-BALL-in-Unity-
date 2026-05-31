@@ -1,8 +1,10 @@
 # 🔴 2D Ball Game
 
-![Unity](https://shields.io)
-![Platform](https://shields.io)
-![License](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" alt="Unity" />
+  <img src="https://shields.io" alt="Platform" />
+  <img src="https://shields.io" alt="License" />
+</p>
 
 A dynamic and engaging 2D ball game developed entirely using the **Unity Engine**, designed to showcase smooth physics-based mechanics, precise movement, and responsive controls.
 
