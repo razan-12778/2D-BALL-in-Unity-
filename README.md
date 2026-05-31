@@ -1,10 +1,8 @@
 # 🔴 2D Ball Game
 
-<p align="left">
-  <img src="https://shields.io" alt="Unity" />
-  <img src="https://shields.io" alt="Platform" />
-  <img src="https://shields.io" alt="License" />
-</p>
+| 🛠️ Engine | 🎮 Platform | 📄 License |
+| :--- | :--- | :--- |
+| **Unity 2022.3+** | **PC / Mobile** | **MIT License** |
 
 A dynamic and engaging 2D ball game developed entirely using the **Unity Engine**, designed to showcase smooth physics-based mechanics, precise movement, and responsive controls.
 
