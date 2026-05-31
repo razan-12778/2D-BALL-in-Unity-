@@ -1,8 +1,7 @@
 # 🔴 2D Ball Game
 
-| 🛠️ Engine | 🎮 Platform | 📄 License |
-| :--- | :--- | :--- |
-| **Unity 2022.3+** | **PC / Mobile** | **MIT License** |
+
+**🛠️ Engine:** `Unity 2022.3+` &nbsp;&nbsp;|&nbsp;&nbsp; **🎮 Platform:** `PC / Mobile` &nbsp;&nbsp;|&nbsp;&nbsp; **📄 License:** `MIT`
 
 A dynamic and engaging 2D ball game developed entirely using the **Unity Engine**, designed to showcase smooth physics-based mechanics, precise movement, and responsive controls.
 
